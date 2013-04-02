@@ -1,0 +1,1 @@
+void blink(uint8_t t);
